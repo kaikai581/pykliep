@@ -38,11 +38,11 @@ plt.show()
 
 The above code snippet makes the plot.
 
-![](C:\Users\kaikai\Desktop\Figure_1.png)
+![](https://raw.githubusercontent.com/kaikai581/pykliep/master/plots/KLIEP.png)
 
 There is literature claiming KLIEP is one of the better-performing algorithms [1]. This can be seen by comparing with another python package which uses the uLSIF algorithm:
 
-![](C:\Users\kaikai\Desktop\compare-true-estimate-1.png)
+![](https://raw.githubusercontent.com/kaikai581/pykliep/master/plots/uLSIF.png)
 
 ## References
 
